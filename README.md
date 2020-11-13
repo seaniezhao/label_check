@@ -1,4 +1,7 @@
 # 简单的标注检查脚本
+textgrid解析来自：
+https://github.com/kylebgorman/textgrid
+
 只支持声母韵母划分的中文标注
 用来检查：
  1. 标注是否都在词表中存在
